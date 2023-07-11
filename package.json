@@ -1,0 +1,22 @@
+{
+	"name": "svelte-learn",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@sveltejs/adapter-auto": "^2.1.0",
+		"@sveltejs/kit": "^1.22.1",
+		"svelte": "^4.0.5",
+		"vite": "^4.4.2"
+	}
+}
